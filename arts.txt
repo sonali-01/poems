@@ -1,4 +1,7 @@
 list of arts
 
 drawing
+painting
 reading
+puzzle
+chess
