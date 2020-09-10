@@ -2,3 +2,5 @@ list of foods in india
 
 pizza 
 burger
+ice cream
+maggi
